@@ -1,0 +1,12 @@
+#+title: Org Mode Basics In Doom Emacs
+#+DESCRIPTION: An org document to demonstrate org mode
+#+AUTHOR: Lui Sant'Ana Cardoso
+* A new headline
+** A new headline
+*** A new headline
+**** A new headline
+***** A new headline
+****** A new headline
+* Getting Started in Org Mode
+Read org more manual with M-x org-info
+org-toggle-heading : SPC-m-h
